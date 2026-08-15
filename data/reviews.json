@@ -1,0 +1,101 @@
+[
+  {
+    "id": "staging-01",
+    "rating": 5,
+    "body": "I’m thoroughly impressed. This book arrived with exactly what I needed to hear right now.",
+    "name": "Marcus T.",
+    "location": "Atlanta, GA",
+    "permission": true,
+    "staging": true,
+    "status": "approved",
+    "createdAt": "2026-07-06T00:00:01.000Z"
+  },
+  {
+    "id": "staging-02",
+    "rating": 5,
+    "body": "My faith has been testing me lately, and this reminded me how much perspective matters.",
+    "name": "Aaliyah Bennett",
+    "location": "Houston, TX",
+    "permission": true,
+    "staging": true,
+    "status": "approved",
+    "createdAt": "2026-07-06T00:00:02.000Z"
+  },
+  {
+    "id": "staging-03",
+    "rating": 5,
+    "body": "I remember you talking about Nothing Is Random years ago when I met you in New York. I’m glad you finally brought it to life.",
+    "name": "Devon",
+    "location": "Brooklyn, NY",
+    "permission": true,
+    "staging": true,
+    "status": "approved",
+    "createdAt": "2026-07-06T00:00:03.000Z"
+  },
+  {
+    "id": "staging-04",
+    "rating": 5,
+    "body": "The AWE reference made me laugh out loud. This one was special.",
+    "name": "Simone Clarke",
+    "location": "Oakland, CA",
+    "permission": true,
+    "staging": true,
+    "status": "approved",
+    "createdAt": "2026-07-06T00:00:04.000Z"
+  },
+  {
+    "id": "staging-05",
+    "rating": 5,
+    "body": "The Rayburn tribute hit me deeply. I loved the care behind it.",
+    "name": "Katie",
+    "location": "Santa Clara, CA",
+    "permission": true,
+    "staging": true,
+    "status": "approved",
+    "createdAt": "2026-07-06T00:00:05.000Z"
+  },
+  {
+    "id": "staging-06",
+    "rating": 5,
+    "body": "Events + reactions—it’s great to see you finally put this into the world.",
+    "name": "Priya R.",
+    "location": "London, UK",
+    "permission": true,
+    "staging": true,
+    "status": "approved",
+    "createdAt": "2026-07-06T00:00:06.000Z"
+  },
+  {
+    "id": "staging-07",
+    "rating": 5,
+    "body": "Read one entry a night and it completely shifted how I look at my week.",
+    "name": "Kwame Osei",
+    "location": "Accra, GH",
+    "permission": true,
+    "staging": true,
+    "status": "approved",
+    "createdAt": "2026-07-06T00:00:07.000Z"
+  },
+  {
+    "id": "staging-08",
+    "rating": 5,
+    "body": "Every page feels like it was written for exactly where I am. Couldn’t put it down.",
+    "name": "Tasha",
+    "location": "Toronto, CA",
+    "permission": true,
+    "staging": true,
+    "status": "approved",
+    "createdAt": "2026-07-06T00:00:08.000Z"
+  },
+  {
+    "id": "staging-09",
+    "rating": 5,
+    "body": "Bought it for myself and three friends. That’s how much it moved me.",
+    "name": "Elijah Grant",
+    "location": "Washington, DC",
+    "permission": true,
+    "staging": true,
+    "status": "approved",
+    "createdAt": "2026-07-06T00:00:09.000Z"
+  }
+]
