@@ -35,7 +35,7 @@ export const PURCHASE: PurchaseTarget[] = [
     button: "Buy Physical Copy",
     includes: ["Physical copy of NoThing Is Random", "Printed on demand & shipped"],
     // ← paste your Shopify Physical Copy product/checkout URL here
-    url: "SHOPIFY_PHYSICAL_URL_HERE",
+    url: "https://97jift-4w.myshopify.com/products/nothing-is-random-physical-copy",
   },
   {
     id: "digital",
@@ -50,7 +50,7 @@ export const PURCHASE: PurchaseTarget[] = [
       "Instant access code (444)",
     ],
     // ← paste your Shopify Digital Experience product/checkout URL here
-    url: "SHOPIFY_DIGITAL_URL_HERE",
+    url: "https://97jift-4w.myshopify.com/products/nothing-is-random-digital-experience",
   },
   {
     id: "bundle",
@@ -66,7 +66,7 @@ export const PURCHASE: PurchaseTarget[] = [
       "Access code delivered by email",
     ],
     // ← paste your Shopify Bundle product/checkout URL here
-    url: "SHOPIFY_BUNDLE_URL_HERE",
+    url: "https://97jift-4w.myshopify.com/products/nothing-is-random-bundle",
     limited: true,
   },
 ];
