@@ -6,9 +6,9 @@ import { COMPLETE_WORKBOOK_PDF } from "@/lib/workbooks";
 
 /**
  * AFTER-PURCHASE ACCESS — the hub buyers land on after Shopify checkout.
- * The online experience unlocks with the code (444) delivered with the
- * Digital Experience and Bundle. The digital book PDF and the physical copy
- * are fulfilled through Shopify (email + Book Vault print-on-demand).
+ * The online experience unlocks with the code delivered with the Digital
+ * Experience and Bundle. The digital book PDF and the physical copy are
+ * fulfilled through Shopify (email + Book Vault print-on-demand).
  */
 
 export default function AccessPage() {
@@ -35,13 +35,14 @@ export default function AccessPage() {
           you from the order confirmation.
         </p>
 
-        {/* the code + enter experience */}
+        {/* purchase confirmation */}
         <div className="mt-10 rounded-2xl border-2 border-[var(--red)] bg-[var(--red)]/[0.08] p-7">
-          <p className="ui-caps text-[10px] text-[var(--red)]">Your experience access code</p>
-          <p className="display mt-2 text-5xl tracking-[0.3em] text-white sm:text-6xl">444</p>
+          <p className="ui-caps text-[10px] text-[var(--red)]">Your experience access</p>
+          <p className="display mt-2 text-3xl text-white sm:text-5xl">CHECK YOUR EMAIL</p>
           <p className="serif-body mt-3 text-[14px] text-white/75">
-            Enter the experience, read the first ten entries free, and use this code to unlock the
-            rest — through Entry 117, the outro, and the author’s close.
+            Your download email includes the access details for the full online experience. Enter
+            the experience, read the first ten entries free, and use your delivered code to unlock
+            the rest — through Entry 117, the outro, and the author’s close.
           </p>
           <Link href="/experience" className="btn btn-red mt-5">
             Enter the Experience →

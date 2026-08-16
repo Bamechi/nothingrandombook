@@ -47,7 +47,7 @@ export const PURCHASE: PurchaseTarget[] = [
     includes: [
       "Digital book (PDF) download",
       "Full online interactive experience",
-      "Instant access code (444)",
+      "Access code delivered after purchase",
     ],
     // ← paste your Shopify Digital Experience product/checkout URL here
     url: "https://97jift-4w.myshopify.com/products/nothing-is-random-digital-experience",
